@@ -1,0 +1,6 @@
+# Local storage (created by subscribe.php)
+storage/
+# OS/editor
+.DS_Store
+Thumbs.db
+*.log
